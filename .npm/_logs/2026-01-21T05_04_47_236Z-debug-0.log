@@ -1,0 +1,18 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.9.4
+2 info using node@v22.22.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/opt/mos/frontend/.npmrc
+5 silly config load:file:/home/ec2-user/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/home/ec2-user/.npm/_logs/2026-01-21T05_04_47_236Z-
+10 verbose logfile /home/ec2-user/.npm/_logs/2026-01-21T05_04_47_236Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /opt/mos/frontend
+13 verbose os Linux 6.1.159-181.297.amzn2023.x86_64
+14 verbose node v22.22.0
+15 verbose npm  v10.9.4
+16 verbose exit 0
+17 info ok
